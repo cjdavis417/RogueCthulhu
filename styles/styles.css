@@ -1,0 +1,41 @@
+.jumbotron {
+    background: no-repeat center right fixed url(../img/20778_fantasy_cthulhu.jpg);
+}
+
+.jumbotron .container > * {
+    text-align: center;
+    color: #fff;
+}
+
+.jumbotron .container h1 {
+    font-size: 5rem;
+}
+
+.jumbotron .container p {
+    font-size: 1.6rem;
+}
+
+.card {
+    margin: 5px;
+}
+
+.left {
+    float: left;
+    margin-right: 1em;
+}
+
+.right {
+    float: right;
+    margin-left: 1em;
+}
+
+figure {
+    text-align: center;
+    text-transform: uppercase;
+    padding: .2em;
+    margin: 0;
+}
+
+figure img {
+    max-width: 100%;
+}
